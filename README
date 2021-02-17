@@ -1,0 +1,10 @@
+Works with neovim.
+
+To use.
+
+cd ~
+git clone <url>
+mkdir -p .config/nvim
+cp vim-config/.vimrc .config/nvim/init.vim
+ln -s .config/nvim/.vimrc
+rm -rf vim-config
