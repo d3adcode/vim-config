@@ -8,3 +8,7 @@ mkdir -p .config/nvim
 cp vim-config/.vimrc .config/nvim/init.vim
 ln -s .config/nvim/.vimrc
 rm -rf vim-config
+
+FOLLOW INSTRUCTION HERE TO SETUP VIM PLUG
+
+https://github.com/junegunn/vim-plug/wiki/tutorial

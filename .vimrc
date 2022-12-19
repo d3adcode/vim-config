@@ -175,6 +175,8 @@ inoremap <C-n> <tab>
 " Reverse supertab navigation (tab descends, s-tab ascends)
 "let g:SuperTabDefaultCompletionType = "<c-n>"
 
+" !!! INSTALL VIM PLUG FOR PLUGINS TO WORK !!! "
+
 " Plugins
 call plug#begin('~/.nvim/plugged')
 
